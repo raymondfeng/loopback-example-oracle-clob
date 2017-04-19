@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "oracle": {
+    "host": "${ORACLE_HOST}",
+    "port": 1521,
+    "database": "XE",
+    "password": "${ORACLE_PASSWORD}",
+    "name": "oracle",
+    "tns": "",
+    "user": "${ORACLE_USER}",
+    "connector": "oracle"
+  }
+}
