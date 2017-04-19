@@ -1,5 +1,5 @@
 {
-  "name": "oracle-stream",
+  "name": "loopback-example-oracle-stream",
   "version": "1.0.0",
   "main": "server/server.js",
   "engines": {
@@ -31,6 +31,6 @@
     "type": "",
     "url": ""
   },
-  "license": "UNLICENSED",
-  "description": "oracle-stream"
+  "license": "MIT",
+  "description": "loopback-example-oracle-stream"
 }
