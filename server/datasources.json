@@ -5,11 +5,9 @@
   },
   "oracle": {
     "host": "${ORACLE_HOST}",
-    "port": 1521,
-    "database": "XE",
+    "port": "${ORACLE_PORT}",
+    "database": "${ORACLE_DB}",
     "password": "${ORACLE_PASSWORD}",
-    "name": "oracle",
-    "tns": "",
     "user": "${ORACLE_USER}",
     "connector": "oracle"
   }
